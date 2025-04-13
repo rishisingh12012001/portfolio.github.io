@@ -11,13 +11,7 @@ const exp = [
     time: "(May- September 2021)",
     desp: "<li>Worked at editing photographs for Print standards.</li> <li>Made designs for magazines.</li> <li>Managed Photosoots with senior photographgers and clients.</li>",
   },
-  {
-    title: "Business Analyst and SEO",
-    cardImage: "assets/images/experience-page/ceasefire.png",
-    place: "CeaseFire",
-    time: "(Jan - Feb, 2022)",
-    desp: "<li>Worked on better Search Engine Optimization for the Company.</li><li> Worked on social media marketing for the Agency.</li><li>Connected with clients directly for our brand reference.</li>",
-  },
+
   {
     title: "Graphic Designing Intern",
     cardImage: "assets/images/experience-page/dtu.png",
